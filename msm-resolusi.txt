@@ -1,0 +1,4 @@
+MSM Resolusi
+- Saya pengen membuat konten
+- Belajar CI 4
+- Selanjutnya Belajar Laravel
